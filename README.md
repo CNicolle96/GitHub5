@@ -1,3 +1,3 @@
 # GitHub5
-REMOTE
+LOCAL 
 J'initialise ce README.md via GitHub
